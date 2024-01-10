@@ -80,5 +80,5 @@ https://stylishc.tistory.com/151
 
 
 ### 용어
-CSRF Cross Site Request Forgery 사이트 간 요청 위조
-Eureka server 클라이언트-API서버 중간에 있는 미들웨어 서버. (관련 용어) Spring Cloud, MSA, Spring Eureka
+- CSRF Cross Site Request Forgery 사이트 간 요청 위조     
+- Eureka server 클라이언트-API서버 중간에 있는 미들웨어 서버. (관련 용어) Spring Cloud, MSA, Spring Eureka
