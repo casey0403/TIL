@@ -34,14 +34,21 @@
 (zabbix vs promethuues 출처)https://www.techrepublic.com/article/prometheus-vs-zabix/
 
 
-## 성능 관리 서비스 비교
+## 어플리케이션 성능 관리 서비스 비교
 - APM(Application Performance Management
+- 특히 웹(Web) 서비스에 관한 성능 관리 서비스를 의미
 1. Jennifer : 유료
 2. Datadog : 유료
 3. Scouter : 오픈소스
 4. PinPoint : 오픈소스
 5. Elastic : 오픈소스
-6. 국내 Whatap(:와탭) : 유료 
+6. 국내 Whatap(:와탭) : 유료
+
+-제니퍼소프트(JenniferSoft) VS 엑셈 (EXEM)
+  + 제니퍼: WAS모니터링, 애플리케이션 성능 관리 솔루션의 대표
+  + 엑셈 : DB 성능 관리 솔루션 국내 점유율 1위
+(참고)https://blog.naver.com/shakey7/221913007126
+
 
 ## 데이터 시각화 도구 
 - 정보를 지도나 그래프와 같은 시각적 맥락으로 전환하는 실천
